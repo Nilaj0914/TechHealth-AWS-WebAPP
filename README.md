@@ -1,4 +1,4 @@
-# TechHealth AWS Migration
+# TechHealth AWS WebAPP
 Note: This is a fictional case study for educational and portfolio purposes
 
 ## Scenario
